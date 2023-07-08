@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+.card-sec{
+	background:rgba(181,177,177,0201);
+	width:400px;
+	height:550px;
+	border:1px solid #f5f5f5;
+	text-align:center;
+}
+.img1{
+	width:290px;
+	height:225px;
+	padding:30px 20px 0px 55px;
+}
+.h1-sec{
+	text-align:center;
+	padding:none;
+}
+.sec-p{
+	text-align:center;
+	font-size:25px;
+	align-content:center;
+}
+.sec-btn{
+	color:white;
+	background:rgb(215,41,41);
+	border:none;
+	border-radius:5px;
+	font-size:25px;
+	height:55px;
+	width:150px;
+	text-align:center;
+	
+}
